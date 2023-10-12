@@ -1,4 +1,4 @@
-name: -_Demo_Workflow_228_-
+name: demo workflow
 on: workflow_dispatch
 jobs:
   print:
