@@ -1,0 +1,13 @@
+name : Demo WOrkflow
+on: workflow_dispatch
+print:
+runs-on: ubuntu-latest
+steps:
+- name: Print to console 
+run: echo Hello GH Actions!
+
+
+
+
+
+  
