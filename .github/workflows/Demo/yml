@@ -1,4 +1,4 @@
-name: Demo WOrkflow
+name: Demo Workflow
 on: workflow_dispatch
 print:
 runs-on: ubuntu-latest
